@@ -1,0 +1,8 @@
+Scan Report
+
+Target: example.com
+Server Status: Active
+
+Security Check:
+Headers Found
+Basic Scan Complete
